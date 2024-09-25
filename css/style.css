@@ -1,0 +1,39 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+    box-sizing: border-box;
+  }
+  
+  /******************************************
+  /* LAYOUT
+  /*******************************************/
+  body{
+    text-align: center;
+    font-family: "Euphoria Script", cursive;
+    color: #fff;
+    background-color: rgb(76, 119, 119);
+    background-image: url("/img/ash-edmonds-87xanthWNgM-unsplash\ \(1\).jpg");
+    font-weight: 400;
+    font-size: 1.8em;
+  }
+  img{
+    display: block;
+    margin: 0 auto;
+    
+  }
+  li {
+    list-style: none;
+  }
+  li:first-child{
+    font-size: 2rem;
+  }
+  
+  
+  
+  /******************************************
+  /* ADDITIONAL STYLES
+  /*******************************************/
+  
